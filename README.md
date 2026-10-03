@@ -17,12 +17,12 @@ Admin Access:
 
 **✨ Key Features**
 
-- 👥 Employee Management:** Maintain detailed profiles, documents, and records of employees, roles, and departments.
-- 🎯 Recruitment & Onboarding:** Track candidate applications, interview schedules, and the complete hiring pipeline.
-- 📅 Attendance & Leave Tracking:** Monitor daily attendance, shifts, and seamlessly process leave/time-off requests.
-- 💰 Payroll Management:** Automate salary calculations, deductions, bonuses, and generate payslips.
-- 🔐 Role-Based Access Control (RBAC):** Secure dashboards customized for Super Admins, HR Managers, and Employees.
-- 📊 Analytics Dashboard:** Real-time statistics, charts, and reports to monitor workforce performance and company growth.
+- 👥 **Employee Management:** Maintain detailed profiles, documents, and records of employees, roles, and departments.
+- 🎯 **Recruitment & Onboarding:** Track candidate applications, interview schedules, and the complete hiring pipeline.
+- 📅 **Attendance & Leave Tracking:** Monitor daily attendance, shifts, and seamlessly process leave/time-off requests.
+- 💰 **Payroll Management:** Automate salary calculations, deductions, bonuses, and generate payslips.
+- 🔐 **Role-Based Access Control (RBAC):** Secure dashboards customized for Super Admins, HR Managers, and Employees.
+- 📊 **Analytics Dashboard:** Real-time statistics, charts, and reports to monitor workforce performance and company growth.
 
 **🛠️ Tech Stack**
 
